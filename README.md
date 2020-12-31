@@ -47,6 +47,8 @@ Additional software:
 
 **YouTube Client**: freetube [F] https://freetubeapp.io/
 
+**Multimedia Downloader**: youtube-dl https://youtube-dl.org/
+
 **Instant Messenger**: telegram-desktop with 90% interface scale https://telegram.org/
 
 -------------------------------------
