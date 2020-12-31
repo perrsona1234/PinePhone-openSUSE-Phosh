@@ -42,3 +42,7 @@ Twitch Client: orion https://alamminsalo.github.io/orion/
 YouTube Client: freetube [F] https://freetubeapp.io/
 
 Instant Messenger: telegram-desktop https://telegram.org/
+
+------------------------------------
+
+Custom shell: fish http://fishshell.com/
