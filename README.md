@@ -53,19 +53,19 @@ Additional software:
 
 Tweaks:
 
-**dconf-editor** installed for, well, dconf configuration.
+**dconf-editor** installed for, well, dconf configuration https://wiki.gnome.org/Apps/DconfEditor
 
-**gnome-tweaks** installed for easy way to change icon theme or font.
+**gnome-tweaks** installed for easy way to change icon theme or font https://wiki.gnome.org/Apps/Tweaks
 
-**flatseal** installed for easy flatpak permissions management.
+**flatseal** installed for easy flatpak permissions management https://flathub.org/apps/details/com.github.tchx84.Flatseal
 
 -------------------------------------
 
 Theme:
 
-**Apps**: Yaru-Green-dark
+**Apps**: Yaru-Green-dark https://github.com/Jannomag/Yaru-Colors
 
-**Icons**: Papirus-Dark
+**Icons**: Papirus-Dark https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 
 **Interface Text**: Sans Regular 10
 
