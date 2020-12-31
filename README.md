@@ -1,11 +1,9 @@
 # PinePhone-openSUSE-Phosh
-A repo with mobile-friendly config files for PinePhone by Pine64 running openSUSE Tumbleweed and using Phosh desktop.
-
-This repo hosts config files for basic GUI software one could expect from a smartphone.
+A repo with mobile-friendly config files for PinePhone by Pine64 running openSUSE Tumbleweed and using Phosh desktop. This repo hosts config files for basic GUI software one could expect from a smartphone and configuration scripts to make it easier to install and configure for end users. It's a mix of native .rpm packages and flatpaks. Flatpaks are marked with [F].
 
 This includes:
 
-Web Browser: Ungoogled Chromium https://github.com/Eloston/ungoogled-chromium
+Web Browser: Ungoogled Chromium [F] https://github.com/Eloston/ungoogled-chromium
 
 Music Player: audacious https://audacious-media-player.org/
 
@@ -27,6 +25,6 @@ Torrent Client: transmission-qt https://transmissionbt.com/
 
 Twitch Client: orion https://alamminsalo.github.io/orion/
 
-YouTube Client: freetube https://freetubeapp.io/
+YouTube Client: freetube [F] https://freetubeapp.io/
 
 Instant Messenger: telegram-desktop https://telegram.org/
