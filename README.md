@@ -19,10 +19,14 @@ Calculator: galculator http://galculator.mnim.org/
 
 Terminal Emulator: xfce4-terminal https://gitlab.xfce.org/apps/xfce4-terminal
 
+------------------------------------
+
 Additional software:
 
 Torrent Client: transmission-qt https://transmissionbt.com/
 
 Twitch Client: orion https://alamminsalo.github.io/orion/
+
+YouTube Client: freetube https://freetubeapp.io/
 
 Instant Messenger: telegram-desktop https://telegram.org/
