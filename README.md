@@ -3,15 +3,19 @@ A repo with mobile-friendly config files for PinePhone by Pine64 running openSUS
 
 This includes:
 
-Web Browser: Ungoogled Chromium [F] https://github.com/Eloston/ungoogled-chromium
+Web Browser: Ungoogled Chromium [F] with "uBlock Origin", "User-Agent Switcher" and "Chromium Web Store" extensions installed. 
+
+User-Agent set by default is Chrome/Android. 
+
+These custom flags are enabled: #enable-stacked-tab-strip (Enabled), #extension-mime-request-handling (Always prompt for install), #show-avatar-button (Never), #enable-accelerated-video-decode (Enabled), #enable-force-dark (Enabled) https://github.com/Eloston/ungoogled-chromium
 
 Music Player: audacious https://audacious-media-player.org/
 
-Image Viewer: nomacs https://nomacs.org/
+Image Viewer: nomacs - when You open a folder with images, swipe down from the top to see image roll, swipe up from the bottom to see file's metadata info https://nomacs.org/
 
 Video Player: mpv https://mpv.io/installation/
 
-Text Editor: gedit https://wiki.gnome.org/Apps/Gedit
+Text Editor: gedit with "Word Completion" & "Find In Files" plugins https://wiki.gnome.org/Apps/Gedit
 
 Document Viewer: qpdfview https://github.com/bendikro/qpdfview
 
@@ -20,6 +24,8 @@ Calculator: galculator http://galculator.mnim.org/
 Archive Manager: file-roller https://wiki.gnome.org/Apps/FileRoller
 
 Terminal Emulator: xfce4-terminal https://gitlab.xfce.org/apps/xfce4-terminal
+
+Custom shell: fish http://fishshell.com/
 
 Process Viewer: htop https://htop.dev/
 
@@ -41,8 +47,4 @@ Twitch Client: orion https://alamminsalo.github.io/orion/
 
 YouTube Client: freetube [F] https://freetubeapp.io/
 
-Instant Messenger: telegram-desktop https://telegram.org/
-
-------------------------------------
-
-Custom shell: fish http://fishshell.com/
+Instant Messenger: telegram-desktop with 90% interface scale https://telegram.org/
