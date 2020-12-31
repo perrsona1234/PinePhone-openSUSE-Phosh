@@ -3,48 +3,48 @@ A repo with mobile-friendly config files for PinePhone by Pine64 running openSUS
 
 This includes:
 
-Web Browser: Ungoogled Chromium [F] with "uBlock Origin", "User-Agent Switcher" and "Chromium Web Store" extensions installed. 
+**Web Browser**: Ungoogled Chromium [F] with "uBlock Origin", "User-Agent Switcher" and "Chromium Web Store" extensions installed. 
 
 User-Agent set by default is Chrome/Android. 
 
 These custom flags are enabled: #enable-stacked-tab-strip (Enabled), #extension-mime-request-handling (Always prompt for install), #show-avatar-button (Never), #enable-accelerated-video-decode (Enabled), #enable-force-dark (Enabled) https://github.com/Eloston/ungoogled-chromium
 
-Music Player: audacious https://audacious-media-player.org/
+**Music Player**: audacious https://audacious-media-player.org/
 
-Image Viewer: nomacs - when You open a folder with images, swipe down from the top to see image roll, swipe up from the bottom to see file's metadata info https://nomacs.org/
+**Image Viewer**: nomacs - when You open a folder with images, swipe down from the top to see image roll, swipe up from the bottom to see file's metadata info https://nomacs.org/
 
-Video Player: mpv https://mpv.io/installation/
+**Video Player**: mpv https://mpv.io/installation/
 
-Text Editor: gedit with "Word Completion" & "Find In Files" plugins https://wiki.gnome.org/Apps/Gedit
+**Text Editor**: gedit with "Word Completion" & "Find In Files" plugins https://wiki.gnome.org/Apps/Gedit
 
-Document Viewer: qpdfview https://github.com/bendikro/qpdfview
+**Document Viewer**: qpdfview https://github.com/bendikro/qpdfview
 
-Calculator: galculator http://galculator.mnim.org/
+**Calculator**: galculator http://galculator.mnim.org/
 
-Archive Manager: file-roller https://wiki.gnome.org/Apps/FileRoller
+**Archive Manager**: file-roller https://wiki.gnome.org/Apps/FileRoller
 
-Terminal Emulator: xfce4-terminal https://gitlab.xfce.org/apps/xfce4-terminal
+**Terminal Emulator**: xfce4-terminal https://gitlab.xfce.org/apps/xfce4-terminal
 
-Custom shell: fish http://fishshell.com/
+**Custom shell**: fish http://fishshell.com/
 
-Process Viewer: htop https://htop.dev/
+**Process Viewer**: htop https://htop.dev/
 
 ------------------------------------
 
 Additional software:
 
-Maps: gnome-maps https://wiki.gnome.org/Apps/Maps
+**Maps**: gnome-maps https://wiki.gnome.org/Apps/Maps
 
-Disk Usage Analyzer: baobab https://wiki.gnome.org/action/show/Apps/DiskUsageAnalyzer?action=show&redirect=Apps%2FBaobab
+**Disk Usage Analyzer**: baobab https://wiki.gnome.org/action/show/Apps/DiskUsageAnalyzer?action=show&redirect=Apps%2FBaobab
 
-Sound Recorder: soundrecorder https://wiki.gnome.org/Design/Apps/SoundRecorder
+**Sound Recorder**: soundrecorder https://wiki.gnome.org/Design/Apps/SoundRecorder
 
-Sound Converter: gnome-sound-converter https://soundconverter.org/
+**Sound Converter**: gnome-sound-converter https://soundconverter.org/
 
-Torrent Client: transmission-qt https://transmissionbt.com/
+**Torrent Client**: transmission-qt https://transmissionbt.com/
 
-Twitch Client: orion https://alamminsalo.github.io/orion/
+**Twitch Client**: orion https://alamminsalo.github.io/orion/
 
-YouTube Client: freetube [F] https://freetubeapp.io/
+**YouTube Client**: freetube [F] https://freetubeapp.io/
 
-Instant Messenger: telegram-desktop with 90% interface scale https://telegram.org/
+**Instant Messenger**: telegram-desktop with 90% interface scale https://telegram.org/
