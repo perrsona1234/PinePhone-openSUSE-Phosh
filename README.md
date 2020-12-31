@@ -11,7 +11,7 @@ These custom flags are enabled: #enable-stacked-tab-strip (Enabled), #extension-
 
 **Music Player**: audacious https://audacious-media-player.org/
 
-**Image Viewer**: nomacs - when You open a folder with images, swipe down from the top to see image roll, swipe up from the bottom to see file's metadata info https://nomacs.org/
+**Image Viewer**: nomacs - when You open a folder with images, swipe down from the top to see image roll, swipe up from the bottom to see file's metadata info or double tap to go into fullscreen mode https://nomacs.org/
 
 **Video Player**: mpv https://mpv.io/installation/
 
@@ -48,3 +48,27 @@ Additional software:
 **YouTube Client**: freetube [F] https://freetubeapp.io/
 
 **Instant Messenger**: telegram-desktop with 90% interface scale https://telegram.org/
+
+-------------------------------------
+
+Tweaks:
+
+**dconf-editor** installed for, well, dconf configuration.
+
+**gnome-tweaks** installed for easy way to change icon theme or font.
+
+**flatseal** installed for easy flatpak permissions management.
+
+-------------------------------------
+
+Theme:
+
+**Apps**: Yaru-Green-dark
+
+**Icons**: Papirus-Dark
+
+**Interface Text**: Sans Regular 10
+
+**Document Text**: Sans Regular 10
+
+**Monospace Text**: Monospace Regular 10
