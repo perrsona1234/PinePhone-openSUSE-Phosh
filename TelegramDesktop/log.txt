@@ -1,0 +1,83 @@
+[2020.12.31 13:18:21] Launched version: 2004007, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2020.12.31 13:18:21] Executable dir: /usr/bin/, name: telegram-desktop
+[2020.12.31 13:18:21] Initial working dir: /home/pine/
+[2020.12.31 13:18:21] Working dir: /home/pine/.local/share/TelegramDesktop/
+[2020.12.31 13:18:21] Command line: telegram-desktop --
+[2020.12.31 13:18:21] Executable path before check: /usr/bin/telegram-desktop
+[2020.12.31 13:18:21] Logs started
+[2020.12.31 13:18:21] Launcher filename: telegram-desktop.desktop
+[2020.12.31 13:18:21] Getting DE, XDG_CURRENT_DESKTOP: 'GNOME'
+[2020.12.31 13:18:21] Getting DE, DESKTOP_SESSION: ''
+[2020.12.31 13:18:21] Getting DE, KDE_SESSION_VERSION: ''
+[2020.12.31 13:18:21] DE: Gnome
+[2020.12.31 13:18:21] Connecting local socket to /run/user/1000/0f9ad7a78c17a35cdd81d85996f65e0e-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2020.12.31 13:18:21] This is the only instance of Telegram, starting server and app...
+[2020.12.31 13:18:21] Moved logging from '/home/pine/.local/share/TelegramDesktop/log_start0.txt' to '/home/pine/.local/share/TelegramDesktop/log.txt'!
+[2020.12.31 13:18:21] Primary screen DPI: 96
+[2020.12.31 13:18:21] Found non-trivial Device Pixel Ratio: 2
+[2020.12.31 13:18:21] Environmental variables: QT_DEVICE_PIXEL_RATIO=''
+[2020.12.31 13:18:21] Environmental variables: QT_SCALE_FACTOR=''
+[2020.12.31 13:18:21] Environmental variables: QT_AUTO_SCREEN_SCALE_FACTOR=''
+[2020.12.31 13:18:21] Environmental variables: QT_SCREEN_SCALE_FACTORS=''
+[2020.12.31 13:18:22] App Info: reading settings...
+[2020.12.31 13:18:22] App Info: reading encrypted settings...
+[2020.12.31 13:18:22] Lang Info: Loaded cached, keys: 2910
+[2020.12.31 13:18:22] OpenAL Logging Level: (not set)
+[2020.12.31 13:18:22] Audio Playback Devices: Built-in Audio Headphones + Headset Microphone + Internal Microphone + Internal Earpiece + Internal speaker
+[2020.12.31 13:18:22] Audio Playback Default Device: Built-in Audio Headphones + Headset Microphone + Internal Microphone + Internal Earpiece + Internal speaker
+[2020.12.31 13:18:22] Audio Capture Devices: Built-in Audio Headphones + Headset Microphone + Internal Microphone + Internal Earpiece + Internal speaker;Monitor of Built-in Audio Headphones + Headset Microphone + Internal Microphone + Internal Earpiece + Internal speaker
+[2020.12.31 13:18:22] Audio Capture Default Device: Built-in Audio Headphones + Headset Microphone + Internal Microphone + Internal Earpiece + Internal speaker
+[2020.12.31 13:18:24] System tray available: [FALSE]
+[2020.12.31 13:18:24] Not using D-Bus global menu.
+[2020.12.31 13:18:24] Not using Unity launcher counter.
+[2020.12.31 13:18:24] App Info: reading accounts info...
+[2020.12.31 13:18:24] App Info: reading encrypted info...
+[2020.12.31 13:18:24] App Info: reading map...
+[2020.12.31 13:18:24] App Info: reading encrypted map...
+[2020.12.31 13:18:24] App Info: reading encrypted user settings...
+[2020.12.31 13:18:24] App Info: encrypted user settings read.
+[2020.12.31 13:18:24] App Info: reading encrypted mtp data...
+[2020.12.31 13:18:24] MTP Info: read keys, current: 3, to destroy: 0
+[2020.12.31 13:18:24] Map read time: 4
+[2020.12.31 13:18:24] App Info: reading encrypted mtp config...
+[2020.12.31 13:18:25] TCP Error: network - Network unreachable
+[2020.12.31 13:18:25] HTTP Error: network error 99 - Network unreachable
+[2020.12.31 13:18:33] TCP Error: network - Network unreachable
+[2020.12.31 13:18:33] HTTP Error: network error 99 - Network unreachable
+[2020.12.31 13:18:46] MTP Info: destroying stale keys, count: 3
+[2020.12.31 13:18:46] TCP Error: network - Network unreachable
+[2020.12.31 13:18:46] HTTP Error: network error 99 - Network unreachable
+[2020.12.31 13:18:46] TCP Error: network - Network unreachable
+[2020.12.31 13:18:46] TCP Error: network - Network unreachable
+[2020.12.31 13:18:46] TCP Error: network - Network unreachable
+[2020.12.31 13:18:46] HTTP Error: network error 99 - Network unreachable
+[2020.12.31 13:18:46] HTTP Error: network error 99 - Network unreachable
+[2020.12.31 13:18:46] HTTP Error: network error 99 - Network unreachable
+[2020.12.31 13:18:52] HTTP Error: remote host closed - Connection closed
+[2020.12.31 13:18:52] TCP Error: network - Network unreachable
+[2020.12.31 13:18:52] HTTP Error: network error 99 - Network unreachable
+[2020.12.31 13:18:52] TCP Error: network - Network unreachable
+[2020.12.31 13:18:52] HTTP Error: network error 99 - Network unreachable
+[2020.12.31 13:18:52] TCP Error: network - Network unreachable
+[2020.12.31 13:18:52] HTTP Error: network error 99 - Network unreachable
+[2020.12.31 13:18:52] TCP Error: error packet received, endpoint: '149.154.167.92:443', protocolDcId: 4, code = -404
+[2020.12.31 13:18:52] MTP Info: -404 error received in destroyer 2560004, assuming key was destroyed.
+[2020.12.31 13:18:52] MTP Info: checkIfKeyWasDestroyed on destroying key 2560004, assuming it is destroyed.
+[2020.12.31 13:18:52] TCP Error: error packet received, endpoint: '149.154.175.52:443', protocolDcId: 1, code = -404
+[2020.12.31 13:18:52] MTP Info: -404 error received in destroyer 2560001, assuming key was destroyed.
+[2020.12.31 13:18:52] MTP Info: checkIfKeyWasDestroyed on destroying key 2560001, assuming it is destroyed.
+[2020.12.31 13:18:52] TCP Error: error packet received, endpoint: '91.108.56.101:443', protocolDcId: 5, code = -404
+[2020.12.31 13:18:52] MTP Info: -404 error received in destroyer 2560005, assuming key was destroyed.
+[2020.12.31 13:18:52] MTP Info: checkIfKeyWasDestroyed on destroying key 2560005, assuming it is destroyed.
+[2020.12.31 13:18:52] MTP Info: all keys scheduled for destroy are destroyed.
+[2020.12.31 13:18:54] TCP Error: network - Network unreachable
+[2020.12.31 13:18:54] HTTP Error: network error 99 - Network unreachable
+[2020.12.31 13:18:54] Config Error: Failed to get response, error: Error transferring https://google.com/resolve?name=apv3.stel.com&type=ANY&random_padding=XK9if5jS0HSiKP0mmlv9TnEOSxXbzrVh6iRZWlcQ8vpuoJzircUUXApxkhMNHAgoop0QicM3U7EHQdHFKDYXAawo2 - server replied: Not Found (203)
+[2020.12.31 13:18:54] Config Error: Failed to parse dns response JSON, error: illegal value
+[2020.12.31 13:18:54] Config Error: Bad data size 0 required 344
+[2020.12.31 13:19:01] Config Error: Failed to get response, error: Error transferring https://www.google.ru/resolve?name=apv3.stel.com&type=ANY&random_padding=wOT5bfgCfaa8gPFj7xWVkgYpgEZ0Mcjg0MmuDT7gwqXp04UcMSJIT7fwE9Z86zMX2IILXzcPsnbyfDjoo8V4HSar1xzdYcBRuGCgp6XMM4Vf0Mlr2 - server replied: Not Found (203)
+[2020.12.31 13:19:01] Config Error: Failed to parse dns response JSON, error: illegal value
+[2020.12.31 13:19:01] Config Error: Bad data size 0 required 344
+[2020.12.31 13:19:02] Config Error: Failed to get response, error: Error transferring https://www.google.com/resolve?name=apv3.stel.com&type=ANY&random_padding=NTaMD3VD56t5kJLfZoWicmy7 - server replied: Not Found (203)
+[2020.12.31 13:19:02] Config Error: Failed to parse dns response JSON, error: illegal value
+[2020.12.31 13:19:02] Config Error: Bad data size 0 required 344
