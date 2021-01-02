@@ -119,7 +119,7 @@ Tweaks:
 ![tweaks](https://github.com/perrsona1234/PinePhone-openSUSE-Phosh/blob/main/PineShots/tweaks.png)
 ![tweaks](https://github.com/perrsona1234/PinePhone-openSUSE-Phosh/blob/main/PineShots/tweaks2.png)
 
-**flatseal** installed for easy flatpak permissions management https://flathub.org/apps/details/com.github.tchx84.Flatseal
+**flatseal** [F] installed for easy flatpak permissions management https://flathub.org/apps/details/com.github.tchx84.Flatseal
 
 ![flatseal](https://github.com/perrsona1234/PinePhone-openSUSE-Phosh/blob/main/PineShots/flatseal.png)
 ![flatseal](https://github.com/perrsona1234/PinePhone-openSUSE-Phosh/blob/main/PineShots/flatseal2.png)
