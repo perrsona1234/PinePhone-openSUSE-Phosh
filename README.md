@@ -3,7 +3,14 @@ A repo with mobile-friendly config files for PinePhone by Pine64 running openSUS
 
 This includes:
 
-**Web Browser**: Ungoogled Chromium [F] with "uBlock Origin", "User-Agent Switcher" and "Chromium Web Store" extensions installed. 
+**Web Browser**: Angelfish https://invent.kde.org/plasma-mobile/plasma-angelfish - because it provides a better mobile-friendly experience & has hardware acceleration by default. AdBlock is currently NOT available.
+
+![angelfish](https://github.com/perrsona1234/PinePhone-openSUSE-Phosh/blob/main/PineShots/angelfish.png)
+![angelfish](https://github.com/perrsona1234/PinePhone-openSUSE-Phosh/blob/main/PineShots/angelfish2.png)
+![angelfish](https://github.com/perrsona1234/PinePhone-openSUSE-Phosh/blob/main/PineShots/angelfish3.png)
+
+[DEPRECATED, but still available in the script & repo]
+Ungoogled Chromium [F] with "uBlock Origin", "User-Agent Switcher" and "Chromium Web Store" extensions installed. 
 
 User-Agent set by default is Chrome/Android. 
 
@@ -39,10 +46,9 @@ These custom flags are enabled: #enable-stacked-tab-strip (Enabled), #extension-
 ![qpdfview](https://github.com/perrsona1234/PinePhone-openSUSE-Phosh/blob/main/PineShots/qpdfview.png)
 ![qpdfview](https://github.com/perrsona1234/PinePhone-openSUSE-Phosh/blob/main/PineShots/qpdfview2.png)
 
-**Calculator**: galculator http://galculator.mnim.org/
+**Calculator**: kalk https://invent.kde.org/plasma-mobile/kalk
 
-![galculator](https://github.com/perrsona1234/PinePhone-openSUSE-Phosh/blob/main/PineShots/galculator.png)
-![galculator](https://github.com/perrsona1234/PinePhone-openSUSE-Phosh/blob/main/PineShots/galculator2.png)
+![kalk](https://github.com/perrsona1234/PinePhone-openSUSE-Phosh/blob/main/PineShots/kalk.png)
 
 **Archive Manager**: file-roller https://wiki.gnome.org/Apps/FileRoller
 
@@ -131,6 +137,8 @@ Theme:
 **Apps**: Yaru-Green-dark https://github.com/Jannomag/Yaru-Colors
 
 **Icons**: Papirus-Dark https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+
+**Folders**: Papirus-Folders with GREEN color
 
 **Interface Text**: Sans Regular 10
 
